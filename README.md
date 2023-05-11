@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github.com/julianazanelatto/image_data_science/blob/main/data_science.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador">
+<img src="https://github.com/julianazanelatto/image_data_science/blob/main/data_science.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 
 <p align="left">
