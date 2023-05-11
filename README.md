@@ -8,7 +8,7 @@ I'm Regina Lacerda currently working with Big Data development. For more informa
 </p>
 
 - 🔭 I’m currently working at QUOD
-  - 📫 How to reach me: <a href="https://www.linkedin.com/in/regina-lacerda-pinheiro/">Linkedin</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/regina-lacerda-pinheiro/">Linkedin</a>
  
 
 
