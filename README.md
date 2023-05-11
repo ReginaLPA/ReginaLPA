@@ -3,12 +3,17 @@
 
 
 <p align="left">
-I'm Regina Lacerda currently working with Big Data development. For more information access the links bellow.
+I'm Regina Lacerda currently working with Big Data development.
+Ease of learning, good interpersonal skills, empathy and tolerance in sustainable and transparent development of organizations and people.
+Competências: Big Data Development in ECL - Agile Methodologies - Teamwork,
+Data science aspirant.
+For more information access the links bellow.
   
 </p>
 
 - 🔭 I’m currently working at QUOD
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/regina-lacerda-pinheiro/">Linkedin</a>
+- 📫 How to reach me: <a href="https://discord.gg/ReginaLPA#6466">Discord</a>
  
 
 
