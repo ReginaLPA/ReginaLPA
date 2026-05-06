@@ -11,17 +11,14 @@ For more information access the links bellow.
   
 </p>
 
-- 🔭 I’m currently working at QUOD
+> <!--- 🔭 I’m currently working at QUOD -->
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/regina-lacerda-pinheiro/">Linkedin</a>
 - 📫 How to reach me: <a href="https://discord.gg/ReginaLPA#6466">Discord</a>
  
 
 
 <div style="display: inline_block"><br>
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reginaLPA&show_icons=true&layout=compact&theme=dark" />
-</a> 
+<p align="center"> 
 </p>
  
  
